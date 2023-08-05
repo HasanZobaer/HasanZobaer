@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HasanZobaer
 - 👀 I’m interested in Computer Science.
-- 🌱 I’m currently learning SQL, Python, Power BI
+- 🌱 I’m currently learning PHP, JavaScript, Laravel.
 - 💞️ Finished an Internship of 12 months currently at The Cahill Group as Information Systems and Technology Student.
 - 📫 How to reach me - hasan.zobaer@gmail.com
 
