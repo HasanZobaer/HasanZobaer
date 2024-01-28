@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HasanZobaer
-- 👀 I’m interested in Computer Science.
-- 🌱 I’m currently learning PHP, JavaScript, Laravel.
-- 💞️ Finished an Internship of 12 months currently at The Cahill Group as Information Systems and Technology Student.
+- 👀 I’m studying undergraduate Computer Science at Memorial University of Newfoundland.
+- 🌱 I’m currently learning PHP, JavaScript, Python, Jupyter.
+- 💞️ Currently working as a Software Engineer at Blue Communication Inc. Finished a 12 months Internship at The Cahill Group as Information Systems and Technology Student.
 - 📫 How to reach me - hasan.zobaer@gmail.com
 
 <!---
